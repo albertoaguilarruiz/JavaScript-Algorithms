@@ -15,4 +15,4 @@ function countUpAndDown(n)
     console.log("Back down. Bye!");
 }
 
-console.log(countUpAndDown(5))
+// console.log(countUpAndDown(5))

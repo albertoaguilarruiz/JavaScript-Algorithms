@@ -9,4 +9,4 @@ function printAllPairs(n)
     }
 }
 
-console.log(printAllPairs(2))
+// console.log(printAllPairs(2))

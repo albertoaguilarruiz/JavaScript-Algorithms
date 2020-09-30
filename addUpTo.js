@@ -15,5 +15,5 @@ function addUpToEasy(n)
     return n * (n + 1) / 2;
 }
 
-console.log(addUpTo(4))
-console.log(addUpToEasy(6))
+// console.log(addUpTo(4))
+// console.log(addUpToEasy(6))

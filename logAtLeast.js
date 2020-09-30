@@ -6,4 +6,4 @@ function longAtLeast(n)
     }
 }
 
-console.log(longAtLeast(3));
+// console.log(longAtLeast(3));
